@@ -10,8 +10,6 @@ Dedicated Full Stack Web Developer with strong JavaScript HTML and CSS proficien
 
 📄 Know about my experiences [Resume](https://test-resume.masaischool.com/resume?resumeId=6529170c41838a52ba65d18a&selectedTemplate=TwoColumnMinimal)
 
-Connect with me:
-mohit-sharma-66176314a mohit-sharma-66176314a
 
 Languages and Tools:
 bootstrap css3 firebase git heroku html5 javascript linux mongodb mysql nodejs postman python react-redux
