@@ -4,7 +4,7 @@ Dedicated Full Stack Web Developer with strong JavaScript HTML and CSS proficien
 
 🌱 I’m currently learning React
 
-👨‍💻 All of my projects are available at [Portfolio](https://6596804ca034605be7790ea2--iridescent-crepe-309eb2.netlify.app/) 
+👨‍💻 All of my projects are available at [Portfolio](https://github.com/Anshuldhakate/Anshuldhakate.github.io) 
 
 📫 How to reach me [Email](anshuldhakate11@gmail.com) & [LinkedIn](https://www.linkedin.com/in/anshul-dhakate-10b005145/) 
 
