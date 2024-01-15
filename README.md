@@ -10,4 +10,5 @@ Dedicated Full Stack Web Developer with strong JavaScript HTML and CSS proficien
 
 📄 Know about my experiences [Resume](https://test-resume.masaischool.com/resume?resumeId=6529170c41838a52ba65d18a&selectedTemplate=TwoColumnMinimal)
 
-
+Tech Stacks-
+[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
