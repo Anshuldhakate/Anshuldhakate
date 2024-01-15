@@ -12,7 +12,6 @@ Dedicated Full Stack Web Developer with strong JavaScript HTML and CSS proficien
 
 Languages and Tools:
 
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50">
 </a>
