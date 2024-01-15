@@ -12,4 +12,4 @@ Dedicated Full Stack Web Developer with strong JavaScript HTML and CSS proficien
 
 
 Languages and Tools:
-bootstrap css3 firebase git heroku html5 javascript linux mongodb mysql nodejs postman python react-redux
+https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg
