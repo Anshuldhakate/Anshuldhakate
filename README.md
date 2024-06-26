@@ -24,10 +24,6 @@ Languages and Tools:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50">
 </a>
 
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50">
-</a>
-
 <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50">
 </a>
